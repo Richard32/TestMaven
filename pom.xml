@@ -19,7 +19,7 @@
 
     <build>
         <finalName>TestMaven1</finalName>
-        <directory>E:\JavaEE\IDEA14Worspace\module_1\target\aaa</directory>
+        <!--<directory>E:\JavaEE\IDEA14Worspace\module_1\target\aaa</directory>-->
         <resources>
             <resource>
                 <directory>src/main/resources</directory>
